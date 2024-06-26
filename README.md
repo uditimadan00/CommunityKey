@@ -1,6 +1,6 @@
-# Welcome to your Expo app 👋
+# Welcome to your CommunityKey app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+CommunityKey is a mobile application aimed at improving neighborhood security by facilitating communication and visitor management. The application will have two types of users: community members and security guards. Key features include user authentication, a notice board, a chatting feature, and visitor management. The members can choose to accept or deny the permission and the decision should go to the guard in real time. Also we can message and call other neighbours with the app
 
 ## Get started
 
